@@ -3,12 +3,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: pink;
+    background-color: rgb(28, 71, 12);
     font-family: Brush Script MT, Brush Script Std, cursive;
 }
 
 .card {
-    background: rgb(252, 148, 181);
+    background: rgb(33, 214, 13);
     padding: 20px;
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -18,7 +18,7 @@ body {
 }
 
 button{
-    background-color: red;
+    background-color: rgb(200, 114, 44);
     color: white;
     border: none;
     padding: 10px;
