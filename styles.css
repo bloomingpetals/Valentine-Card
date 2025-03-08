@@ -3,12 +3,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(28, 71, 12);
+    background-color: #009e49;
     font-family: Brush Script MT, Brush Script Std, cursive;
 }
 
 .card {
-    background: rgb(33, 214, 13);
+    background: #ff7900;
     padding: 20px;
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -18,7 +18,7 @@ body {
 }
 
 button{
-    background-color: rgb(200, 114, 44);
+    background-color: #4cbb17;
     color: white;
     border: none;
     padding: 10px;
@@ -28,7 +28,7 @@ button{
 }
 
 button:hover {
-    background-color: darkred;
+    background-color: #009e60;
 }
 
 @keyframes float {
