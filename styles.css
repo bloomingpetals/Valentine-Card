@@ -3,12 +3,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #009e49;
+    background-color: #6ad651;
     font-family: Brush Script MT, Brush Script Std, cursive;
 }
 
 .card {
-    background: #ff7900;
+    background: #eb8225;
     padding: 20px;
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -43,7 +43,7 @@ button:hover {
     bottom: -10px;
     width: 20px;
     height: 20px;
-    background-color: rgb(229, 4, 4);
+    background-color: rgb(220, 210, 14);
     clip-path: polygon(50% 0%, 100% 35%, 80% 100%, 50% 75%, 20% 100%, 0% 35%);
     animation: float 5s linear infinite;
     opacity: 0;
