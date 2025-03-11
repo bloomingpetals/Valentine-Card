@@ -8,7 +8,7 @@ body {
 }
 
 .card {
-    background: #eb8225;
+    background: #ff7900;
     padding: 20px;
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -43,7 +43,7 @@ button:hover {
     bottom: -10px;
     width: 20px;
     height: 20px;
-    background-color: rgb(220, 210, 14);
+    background-color: rgb(233, 216, 30);
     clip-path: polygon(50% 0%, 100% 35%, 80% 100%, 50% 75%, 20% 100%, 0% 35%);
     animation: float 5s linear infinite;
     opacity: 0;
